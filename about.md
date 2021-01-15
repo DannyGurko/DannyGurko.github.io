@@ -8,4 +8,4 @@ Hi! I am currently a Junior at The University of Maryland, College Park. I am st
 
 ### Contact me
 
-[gmail](mailto:danielf.gurwah@gmail.com)
+[Gmail](mailto:danielf.gurwah@gmail.com)
