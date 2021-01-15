@@ -4,12 +4,8 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
-
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+Hi! My name is Daniel Gurwah and I am currently studying Information Science at The University of Maryland, College Park. I am interested in data science and cyber security. My hobbies include K-pop, gaming, art, and food. Contact me for further information!
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[Gmail](mailto:dgurwah@umd.edu)
