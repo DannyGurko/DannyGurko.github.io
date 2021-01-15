@@ -4,12 +4,8 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
-
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+Hi! I am currently a Junior at The University of Maryland, College Park. I am currently studying Information Science. I am interested in the fields of data analysis or science and cyber security. Some hobbys I have are I like to listen to K-Pop, gaming, art, and play instruments. 
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[gmail](mailto:danielf.gurwah@gmail.com)
